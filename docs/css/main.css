@@ -1,0 +1,33 @@
+body {
+  background-color: #F031D1;
+  font-family: letter-gothic-std, monospace; }
+  body h1, body h2 {
+    font-family: lores-12, sans-serif;
+    font-weight: 700; }
+  body .title {
+    font-weight: 700;
+    font-size: 110%; }
+  body a {
+    color: #13BDB3;
+    font-weight: 600; }
+  body a:hover {
+    color: #0e8f87; }
+
+.hero {
+  width: 100%; }
+
+.info-box {
+  background-color: #ffffff;
+  box-shadow: 5px 5px 2px #444444; }
+
+.state {
+  width: 100%;
+  min-width: 100px;
+  max-width: 200px; }
+
+.nh {
+  min-width: 50px;
+  max-width: 100px; }
+
+.birds {
+  width: 60px; }
