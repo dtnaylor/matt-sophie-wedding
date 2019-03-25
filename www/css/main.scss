@@ -8,9 +8,9 @@ $dark_pink: #A3118C;
 $dark_teal: #19A39B;
 $yellow: #F2D349;
 
-$primary_color: $light_pink;
+$primary_color: $light_teal;
 $primary_hover_color: darken($primary_color, 10%);
-$secondary_color: $light_teal;
+$secondary_color: $light_pink;
 $secondary_hover_color: darken($secondary_color, 10%);
 
 // fonts
@@ -47,7 +47,7 @@ body {
 
 .info-box {
 	background-color: #ffffff;
-	box-shadow: 5px 5px 2px #444444;
+	box-shadow: 5px 5px 2px $dark_pink;
 }
 
 //.state-col {
