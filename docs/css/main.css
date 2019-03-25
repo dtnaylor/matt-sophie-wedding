@@ -1,5 +1,5 @@
 body {
-  background-color: #F031D1;
+  background-color: #13BDB3;
   font-family: letter-gothic-std, monospace; }
   body h1, body h2 {
     font-family: lores-12, sans-serif;
@@ -8,17 +8,17 @@ body {
     font-weight: 700;
     font-size: 110%; }
   body a {
-    color: #13BDB3;
-    font-weight: 600; }
+    color: black;
+    text-decoration: underline; }
   body a:hover {
-    color: #0e8f87; }
+    color: #F031D1; }
 
 .hero {
   width: 100%; }
 
 .info-box {
   background-color: #ffffff;
-  box-shadow: 5px 5px 2px #444444; }
+  box-shadow: 5px 5px 2px #A3118C; }
 
 .state {
   width: 100%;
@@ -28,6 +28,3 @@ body {
 .nh {
   min-width: 50px;
   max-width: 100px; }
-
-.birds {
-  width: 60px; }
