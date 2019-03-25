@@ -33,11 +33,11 @@ body {
 	}
 
 	a {
-		color: $secondary_color;
-		font-weight: 600;
+		color: black;
+		text-decoration: underline;
 	}
 	a:hover {
-		color: $secondary_hover_color;
+		color: $secondary_color;
 	}
 }
 
