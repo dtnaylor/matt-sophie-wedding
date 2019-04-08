@@ -72,6 +72,16 @@ body {
 	width: 100%;
 }
 
+.banner {
+	background-color: $light_pink;
+	box-shadow: 5px 5px 2px #ffffff;
+
+	color: #ffffff;
+	font-size: 125%;
+
+	padding: 20px;
+}
+
 .shadowed {
     -webkit-filter: drop-shadow(5px 5px 2px $dark_pink);
     filter:drop-shadow(5px 5px 2px $dark_pink);
