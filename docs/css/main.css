@@ -13,6 +13,32 @@ body {
   body a:hover {
     color: #F031D1; }
 
+.btn {
+  color: #ffffff;
+  text-decoration: none; }
+
+.btn:hover {
+  color: #ffffff;
+  text-decoration: none; }
+
+.btn-accent {
+  background-color: #F031D1; }
+
+.btn-accent:hover {
+  background-color: #de10bc; }
+
+.btn-paypal {
+  background-color: #1e477a; }
+
+.btn-paypal:hover {
+  background-color: #142f51; }
+
+.btn-venmo {
+  background-color: #3d95ce; }
+
+.btn-venmo:hover {
+  background-color: #2c7aac; }
+
 .hero {
   width: 100%; }
 
@@ -32,3 +58,12 @@ body {
 .nh {
   min-width: 50px;
   max-width: 100px; }
+
+.credit {
+  color: #454545;
+  font-size: 85%; }
+  .credit a {
+    color: #454545;
+    text-decoration: underline; }
+  .credit a:hover {
+    color: #2c2c2c; }
