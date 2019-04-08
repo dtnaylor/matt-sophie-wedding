@@ -45,6 +45,11 @@ body {
 	width: 100%;
 }
 
+.shadowed {
+    -webkit-filter: drop-shadow(5px 5px 2px $dark_pink);
+    filter:drop-shadow(5px 5px 2px $dark_pink);
+}
+
 .info-box {
 	background-color: #ffffff;
 	box-shadow: 5px 5px 2px $dark_pink;
