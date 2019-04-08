@@ -41,6 +41,33 @@ body {
 	}
 }
 
+.btn {
+	color: #ffffff;
+	text-decoration: none;
+}
+.btn:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.btn-accent {
+	background-color: $secondary_color;
+}
+.btn-accent:hover {
+	background-color: $secondary_hover_color;
+}
+.btn-paypal {
+	background-color: #1e477a;
+}
+.btn-paypal:hover {
+	background-color: darken(#1e477a, 10%);
+}
+.btn-venmo {
+	background-color: #3d95ce;
+}
+.btn-venmo:hover {
+	background-color: darken(#3d95ce, 10%);
+}
+
 .hero {
 	width: 100%;
 }
