@@ -98,3 +98,15 @@ body {
 	min-width: 50px;
 	max-width: 100px;
 }
+
+.credit {
+	color: #454545;
+	font-size: 85%;
+	a {
+		color: #454545;
+		text-decoration: underline;
+	}
+	a:hover {
+		color: darken(#454545, 10%);
+	}
+}
