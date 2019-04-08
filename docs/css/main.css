@@ -42,6 +42,13 @@ body {
 .hero {
   width: 100%; }
 
+.banner {
+  background-color: #F031D1;
+  box-shadow: 5px 5px 2px #ffffff;
+  color: #ffffff;
+  font-size: 125%;
+  padding: 20px; }
+
 .shadowed {
   -webkit-filter: drop-shadow(5px 5px 2px #A3118C);
   filter: drop-shadow(5px 5px 2px #A3118C); }
